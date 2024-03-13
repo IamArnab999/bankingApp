@@ -1,2 +1,43 @@
-This is a Java program of a Banking Application
-which will show the savings account, diposite and withdral status for a perticular person
+(For example)
+
+Enter account holder's name: John Doe
+Enter account number: 123456789
+Enter account type: Savings
+Enter initial balance: 1000
+
+Menu:
+1. Deposit
+2. Withdraw
+3. Display Account Info
+4. Exit
+Enter your choice: 1
+Enter deposit amount: 500
+Deposited: 500.0
+
+Menu:
+1. Deposit
+2. Withdraw
+3. Display Account Info
+4. Exit
+Enter your choice: 2
+Enter withdrawal amount: 300
+Withdrawn: 300.0
+
+Menu:
+1. Deposit
+2. Withdraw
+3. Display Account Info
+4. Exit
+Enter your choice: 3
+Account Holder: John Doe
+Account Number: 123456789
+Account Type: Savings
+Balance: 1200.0
+
+Menu:
+1. Deposit
+2. Withdraw
+3. Display Account Info
+4. Exit
+Enter your choice: 4
+Exiting program.
